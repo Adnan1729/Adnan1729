@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Modelling+Engineer;AI+Researcher;Poet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Modelling+Engineer;AI+Researcher;Theologian" alt="Typing SVG" />
 </div>
 
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -8,7 +8,7 @@ I'm a Senior Modelling Engineer at Network Rail, leading AI integration for crit
 
 | 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate On** | 📚 **Research Interests** | 🎯 **Publications** | ⚡ **Fun Fact** |
 |----------------------------|-----------------|----------------------------------|-------------------------|-------------------|----------------|
-| • Predictive maintenance for railway infrastructure<br>• Neural Network Interpretability with MA Classifiers<br>• LLM interpretability projects | • LEAN theorem proving<br>• Advanced LLM architectures | • LLM interpretability research<br>• Theorem proving via LEAN<br>• ML in infrastructure | • Neural Network Interpretability<br>• Vector Quantised VAEs<br>• Transformational ML<br>• Interactive Proof Systems | Active researcher in ML, Computing & Fluid Mechanics | I translate Hindustani poetry |
+| • Predictive maintenance for railway infrastructure<br>• Neural Network Interpretability with MA Classifiers<br>• LLM interpretability projects | • LEAN theorem proving<br>• Advanced LLM architectures | • LLM interpretability research<br>• Theorem proving via LEAN<br>• ML in infrastructure | • Neural Network Interpretability<br>• Vector Quantised VAEs<br>• Transformational ML<br>• Interactive Proof Systems | Active researcher in ML, Computing & Fluid Mechanics | For fun, I dive into the river of Persianate-Vedic theology |
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mam255@cantab.ac.uk)
