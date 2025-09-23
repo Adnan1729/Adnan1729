@@ -4,7 +4,7 @@
 
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Senior Modelling Engineer at Network Rail, leading AI integration for critical infrastructure maintenance. Working with terabytes of data to predict equipment failures across the UK's rail network, focusing on Critical Rail Temperature, Unattended Track Geometry Measurement, and Telecoms datasets.
+I am a Senior Modelling Engineer at Network Rail, leading AI integration for critical infrastructure maintenance. Working with terabytes of data to predict equipment failures across the UK's rail network, focusing on Critical Rail Temperature, Unattended Track Geometry Measurement, and Telecoms datasets.
 
 | 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate On** | 📚 **Research Interests** | 🎯 **Publications** | ⚡ **Fun Fact** |
 |----------------------------|-----------------|----------------------------------|-------------------------|-------------------|----------------|
