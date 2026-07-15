@@ -1,42 +1,32 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Modelling+Engineer;AI+Researcher;Theologian" alt="Typing SVG" />
-</div>
+# Adnan Mahmud
+**Doctoral Researcher, University of Edinburgh**  
+Autonomous agents · real-time data fusion · Bayesian graphical modelling
 
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## About
 
-I am a Senior Modelling Engineer at Network Rail, leading AI integration for critical infrastructure maintenance. Working with terabytes of data to predict equipment failures across the UK's rail network, focusing on Critical Rail Temperature, Unattended Track Geometry Measurement, and Telecoms domains.
+I am a Doctoral Researcher at the University of Edinburgh, developing the statistical foundational framework for advanced Bayesian graphical modelling aimed at real-time evidence fusion and autonomous decision-making in complex, contested, multi-domain environments. The work focuses on coordinating swarm intelligence at the tactical edge, where distributed agents must reason and act locally under intermittent connectivity, adversarial perturbation, and partial observability. A central technical thread is the inference of latent causal variables — operationally meaningful states that are never directly observed but can be reconstructed from indirect, noisy, and heterogeneous signals fused across autonomous platforms. The framework embeds ML-based emulators within dynamic data-driven application systems (DDDAS) to enable interpretable, high-fidelity predictive analysis in real time.
 
-| 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate On** | 📚 **Research Interests** | 🎯 **Publications** | ⚡ **Fun Fact** |
-|----------------------------|-----------------|----------------------------------|-------------------------|-------------------|----------------|
-| • Predictive maintenance for railway infrastructure<br>• Neural Network Interpretability with MA Classifiers<br>• LLM interpretability projects | • LEAN theorem proving<br>• Advanced LLM architectures | • LLM interpretability research<br>• Theorem proving via LEAN<br>• ML in infrastructure | • Neural Network Interpretability<br>• Vector Quantised VAEs<br>• Transformational ML<br>• Interactive Proof Systems | Active researcher in ML, Computing & Fluid Mechanics | For fun, I dive into the river of Persianate-Vedic theology |
+The research is funded by the UK Ministry of Defence and motivated by applications of modular digital twin architectures for autonomous systems spanning aerial, underwater, and ground-based robotics in defence and security contexts. It is carried out in close collaboration with the UK's Defence Science and Technology Laboratory (DSTL) and the Royal Air Force's Rapid Capabilities Office.
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mam255@cantab.ac.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-mahmud-profile/)
+Previously, I conducted research in explainable AI at the Zuse Institute Berlin and read Engineering (BA, MEng) at the University of Cambridge, specialising in Transformational Machine Learning. I am co-authoring a forthcoming book with a senior lecturer in Hindu Studies at the Cambridge Faculty of Divinity.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+I held a Senior Modelling Engineer remit at Network Rail, shaping R&D initiatives that integrate ML and advanced analytical methods for infrastructure fault prediction. Through this work, I collaborated with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
 
-### 🛠 ML/DL
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## Research Interests
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+- Multi-agent coordination and swarm intelligence at the tactical edge
+- Real-time heterogeneous sensor fusion across distributed autonomous systems
+- Latent causal variable inference under adversarial and noisy conditions
+- Bayesian graphical models for evidence fusion
+- ML-based emulators within DDDAS frameworks
+- Modular digital twin architectures for autonomous platforms
+- Neural network interpretability
 
----
-[![](https://visitcount.itsvg.in/api?id=Adnan1729&icon=0&color=0)](https://visitcount.itsvg.in)
+## Affiliations
 
-<!-- Proudly created with enhanced styling -->
+University of Edinburgh · DSTL · RAF Rapid Capabilities Office  
+Funded by the UK Ministry of Defence
+
+## Contact
+
+[Email](mailto:s2887048@ed.ac.uk) · [Website](https://amahmud.neocities.org) · [Google Scholar](https://scholar.google.com/citations?user=PG4TdtAAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/adnan-mahmud-profile/)
