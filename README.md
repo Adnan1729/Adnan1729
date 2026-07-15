@@ -3,9 +3,11 @@
 
 ### 01 &nbsp; About
 
-**Adnan Mahmud** is a Doctoral Researcher at the University of Edinburgh, working on the statistical foundations of autonomous systems that must reason, fuse, and act under fire. His research is funded by the UK Ministry of Defence.
+**Adnan Mahmud** is a Doctoral Researcher at the University of Edinburgh, working on the statistical foundations of autonomous systems that must reason and coordinate in complex, contested, multi-domain environments. His research is funded by the UK Ministry of Defence.
 
 The work sits at the intersection of statistics, machine learning, and real-world operations, and is motivated by a simple observation: in the environments that matter most, sensors disagree, adversaries interfere, and connectivity drops, yet decisions still have to be made.
+
+Alongside the technical work, he writes on the philosophy of AI-mediated science, defence innovation policy, and the mathematical history of ideas that underpin modern machine learning.
 
 <br clear="right">
 
@@ -16,9 +18,9 @@ The work sits at the intersection of statistics, machine learning, and real-worl
 
 ### 02 &nbsp; Research
 
-His current research develops Bayesian graphical models for real-time evidence fusion across distributed autonomous platforms, with a focus on swarm intelligence at the tactical edge, where agents must reason and act locally under intermittent connectivity, adversarial perturbation, and partial observability.
+His doctoral research develops Bayesian graphical models for real-time evidence fusion across distributed autonomous platforms, with a focus on swarm intelligence at the tactical edge, where agents must reason and act locally under intermittent connectivity, adversarial perturbation, and partial observability.
 
-A central technical thread is the inference of latent causal states: operationally meaningful variables that are never directly observed, yet can be reconstructed from indirect, noisy, and heterogeneous signals fused across autonomous platforms.
+A central technical thread is the inference of latent causal states: operationally meaningful variables that are never directly observed, yet can be reconstructed from indirect and heterogeneous signals fused across autonomous platforms. The broader framework embeds machine-learning emulators within modular digital twin architectures for aerial, underwater, and ground-based systems, where interpretable and high-fidelity predictive analysis is critical.
 
 The work is carried out in close collaboration with the Defence Science and Technology Laboratory (DSTL) and the Royal Air Force's Rapid Capabilities Office.
 
@@ -31,12 +33,10 @@ The work is carried out in close collaboration with the Defence Science and Tech
 
 ### 03 &nbsp; Background
 
-Previously, he served as Senior Modelling Engineer at Network Rail, where he led machine learning initiatives for infrastructure fault prediction across the UK rail network, working closely with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
+Previously, he served as Senior Modelling Engineer at Network Rail, where he shaped R&D initiatives integrating machine learning and advanced analytical methods for infrastructure fault prediction across the UK rail network, working closely with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
 
-Earlier still, he conducted research in explainable AI at the Zuse Institute Berlin, and read Engineering at the University of Cambridge (BA, MEng), specialising in Transformational Machine Learning.
+Earlier, he conducted research in explainable AI at the Zuse Institute Berlin, and read Engineering at the University of Cambridge (BA, MEng), specialising in Transformational Machine Learning.
 
-Alongside the technical work, he is co-authoring a forthcoming book on Persianate and Vedic theology, in collaboration with the Faculty of Divinity, University of Cambridge.
+Alongside the technical work, he is co-authoring a forthcoming book on the theology of the Brahmo Samaj, in collaboration with the Faculty of Divinity, University of Cambridge.
 
 <br clear="right">
-
-[s2887048@ed.ac.uk](mailto:s2887048@ed.ac.uk) &nbsp;·&nbsp; [amahmud.neocities.org](https://amahmud.neocities.org)
