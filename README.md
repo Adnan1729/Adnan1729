@@ -1,10 +1,3 @@
-# Adnan Mahmud
-
-**Doctoral Researcher, University of Edinburgh**  
-Funded by the UK Ministry of Defence
-
-<br>
-
 <table>
 <tr>
 <td width="60%" valign="middle">
@@ -67,7 +60,7 @@ Senior Modelling Engineer at Network Rail, leading ML for infrastructure fault p
 
 Prior research at the Zuse Institute Berlin. Engineering at Cambridge (BA, MEng).
 
-<sub>Also co-authoring a book in Persianate and Vedic theology.</sub>
+Also co-authoring a book in Persianate and Vedic theology.
 
 </td>
 <td width="40%" valign="middle">
