@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560">
+  <rect width="1000" height="560" fill="#000000"/>
+  <style>
+    .num  { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 14px; fill: #ffffff; letter-spacing: 0.15em; }
+    .body { font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 20px; fill: #ffffff; }
+  </style>
+
+  <image href="https://raw.githubusercontent.com/Adnan1729/assets/main/block-02.png"
+         x="40" y="80" width="340" height="340" preserveAspectRatio="xMidYMid meet"/>
+
+  <text x="440" y="80"  class="num">02 &#8195; RESEARCH</text>
+
+  <text x="440" y="140" class="body">Bayesian graphical modelling</text>
+  <text x="440" y="168" class="body">for real-time evidence fusion</text>
+  <text x="440" y="196" class="body">across distributed autonomous</text>
+  <text x="440" y="224" class="body">platforms.</text>
+
+  <text x="440" y="276" class="body">Swarm intelligence at the</text>
+  <text x="440" y="304" class="body">tactical edge: intermittent</text>
+  <text x="440" y="332" class="body">connectivity, adversarial</text>
+  <text x="440" y="360" class="body">perturbation, partial</text>
+  <text x="440" y="388" class="body">observability.</text>
+
+  <text x="440" y="440" class="body">Latent causal states, never</text>
+  <text x="440" y="468" class="body">observed, reconstructed</text>
+  <text x="440" y="496" class="body">from noise.</text>
+
+  <text x="440" y="540" class="num">DSTL &#8195; RAF RAPID CAPABILITIES OFFICE</text>
+</svg>
