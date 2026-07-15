@@ -5,7 +5,7 @@
     .body { font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 20px; fill: #ffffff; }
   </style>
 
-  <image href="https://raw.githubusercontent.com/Adnan1729/assets/main/block-02.png"
+  <image href="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02.png"
          x="40" y="80" width="340" height="340" preserveAspectRatio="xMidYMid meet"/>
 
   <text x="440" y="80"  class="num">02 &#8195; RESEARCH</text>
