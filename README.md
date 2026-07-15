@@ -33,10 +33,10 @@ The work is carried out in close collaboration with the Defence Science and Tech
 
 ### 03 &nbsp; Background
 
-Previously, he served as Senior Modelling Engineer at Network Rail, where he shaped R&D initiatives integrating machine learning and advanced analytical methods for infrastructure fault prediction across the UK rail network, working closely with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
+Previously, he served as Senior Modelling Engineer at Network Rail, where he shaped research and development initiatives integrating machine learning and advanced analytical methods for infrastructure fault prediction across the UK rail network, working closely with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
 
 Earlier, he conducted research in explainable AI at the Zuse Institute Berlin, and read Engineering at the University of Cambridge (BA, MEng), specialising in Transformational Machine Learning.
 
-Alongside the technical work, he is co-authoring a forthcoming book on the theology of the Brahmo Samaj, in collaboration with the Faculty of Divinity, University of Cambridge.
+He is also co-authoring a forthcoming book on the theology of the Brahmo Samaj, in collaboration with the Faculty of Divinity, University of Cambridge.
 
 <br clear="right">
