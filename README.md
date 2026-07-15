@@ -1,6 +1,7 @@
-<table>
-<tr>
-<td width="60%" valign="middle">
+## Adnan Mahmud
+
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-01-light.png#gh-light-mode-only">
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-01-dark.png#gh-dark-mode-only">
 
 ### 01 &nbsp; About
 
@@ -8,31 +9,10 @@ Doctoral Researcher at the University of Edinburgh, funded by the UK Ministry of
 
 Building the statistical foundations for autonomous systems that must reason, fuse, and act under fire.
 
-</td>
-<td width="40%" valign="middle">
+<br clear="right">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-01-dark.png">
-  <img src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-01-light.png" alt="" width="100%">
-</picture>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="40%" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-dark.png">
-  <img src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-light.png" alt="" width="100%">
-</picture>
-
-</td>
-<td width="60%" valign="middle" align="right">
+<img align="left" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-light.png#gh-light-mode-only">
+<img align="left" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-dark.png#gh-dark-mode-only">
 
 ### 02 &nbsp; Research
 
@@ -44,15 +24,10 @@ Latent causal states, never observed, reconstructed from noise.
 
 *In collaboration with DSTL and the RAF Rapid Capabilities Office.*
 
-</td>
-</tr>
-</table>
+<br clear="left">
 
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-03-light.png#gh-light-mode-only">
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-03-dark.png#gh-dark-mode-only">
 
 ### 03 &nbsp; Background
 
@@ -62,18 +37,6 @@ Prior research at the Zuse Institute Berlin. Engineering at Cambridge (BA, MEng)
 
 Also co-authoring a book in Persianate and Vedic theology.
 
-</td>
-<td width="40%" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-03-dark.png">
-  <img src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-03-light.png" alt="" width="100%">
-</picture>
-
-</td>
-</tr>
-</table>
-
-<br>
+<br clear="right">
 
 [s2887048@ed.ac.uk](mailto:s2887048@ed.ac.uk) &nbsp;·&nbsp; [amahmud.neocities.org](https://amahmud.neocities.org)
