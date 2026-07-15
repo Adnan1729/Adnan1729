@@ -7,7 +7,7 @@
 
 The work sits at the intersection of statistics, machine learning, and real-world operations, and is motivated by a simple observation: in the environments that matter most, sensors disagree, adversaries interfere, and connectivity drops, yet decisions still have to be made.
 
-Alongside the technical work, he writes on the philosophy of AI-mediated science, defence innovation policy, and the mathematical history of ideas that underpin modern machine learning.
+He also [writes](https://amahmud.neocities.org/blog) on the philosophy of science, defence innovation, and the mathematical roots of machine learning.
 
 <br clear="right">
 
