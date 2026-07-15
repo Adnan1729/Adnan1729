@@ -3,16 +3,26 @@
 
 ### 01 &nbsp; About
 
-**Adnan Mahmud** is a Doctoral Researcher at the University of Edinburgh, funded by the UK Ministry of Defence. His work builds the statistical foundations for autonomous systems that must reason, fuse, and act under fire, developing methods that hold up when sensors disagree, adversaries interfere, and connectivity drops.
+**Adnan Mahmud** is a Doctoral Researcher at the University of Edinburgh, working on the statistical foundations of autonomous systems that must reason, fuse, and act under fire. His research is funded by the UK Ministry of Defence.
+
+The work sits at the intersection of statistics, machine learning, and real-world operations, and is motivated by a simple observation: in the environments that matter most, sensors disagree, adversaries interfere, and connectivity drops, yet decisions still have to be made.
 
 <br clear="right">
 
 <img align="left" width="38%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-dark.png#gh-light-mode-only">
 <img align="left" width="38%" src="https://raw.githubusercontent.com/Adnan1729/Adnan1729/main/assets/block-02-light.png#gh-dark-mode-only">
 
+<div align="right">
+
 ### 02 &nbsp; Research
 
-Bayesian graphical modelling for real-time evidence fusion across distributed autonomous platforms. Swarm intelligence at the tactical edge, where agents reason and act under intermittent connectivity, adversarial perturbation, and partial observability. Latent causal states, never observed, reconstructed from noise. *In collaboration with the Defence Science and Technology Laboratory (DSTL) and the Royal Air Force's Rapid Capabilities Office.*
+His current research develops Bayesian graphical models for real-time evidence fusion across distributed autonomous platforms, with a focus on swarm intelligence at the tactical edge, where agents must reason and act locally under intermittent connectivity, adversarial perturbation, and partial observability.
+
+A central technical thread is the inference of latent causal states: operationally meaningful variables that are never directly observed, yet can be reconstructed from indirect, noisy, and heterogeneous signals fused across autonomous platforms.
+
+The work is carried out in close collaboration with the Defence Science and Technology Laboratory (DSTL) and the Royal Air Force's Rapid Capabilities Office.
+
+</div>
 
 <br clear="left">
 
@@ -21,7 +31,11 @@ Bayesian graphical modelling for real-time evidence fusion across distributed au
 
 ### 03 &nbsp; Background
 
-Senior Modelling Engineer at Network Rail, leading ML for infrastructure fault prediction across the UK rail network, in collaboration with Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little. Prior research in explainable AI at the Zuse Institute Berlin, and Engineering at the University of Cambridge (BA, MEng), specialising in Transformational Machine Learning. Also co-authoring a forthcoming book on Persianate and Vedic theology in collaboration with the Faculty of Divinity, University of Cambridge.
+Previously, he served as Senior Modelling Engineer at Network Rail, where he led machine learning initiatives for infrastructure fault prediction across the UK rail network, working closely with teams at Deloitte, Cognizant, Capgemini, Faculty AI, and Arthur D. Little.
+
+Earlier still, he conducted research in explainable AI at the Zuse Institute Berlin, and read Engineering at the University of Cambridge (BA, MEng), specialising in Transformational Machine Learning.
+
+Alongside the technical work, he is co-authoring a forthcoming book on Persianate and Vedic theology, in collaboration with the Faculty of Divinity, University of Cambridge.
 
 <br clear="right">
 
